@@ -1,0 +1,1 @@
+[{"_id":"613905d4b6243eca855fdd24","ip":"hola","nodo":"a","activo":true,"__v":0},{"_id":"61390660b6243eca855fdd27","ip":"192.168.80.234:3000","nodo":"A","activo":true,"__v":0}]
